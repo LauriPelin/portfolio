@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.8cee5198.chunk.css",
-    "main.js": "/portfolio/static/js/main.77d83153.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.77d83153.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.b97b8d61.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b97b8d61.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.5198a724.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.5198a724.js.map",
     "static/js/2.91bb7dea.chunk.js": "/portfolio/static/js/2.91bb7dea.chunk.js",
@@ -12,12 +12,12 @@
     "static/js/2.91bb7dea.chunk.js.LICENSE.txt": "/portfolio/static/js/2.91bb7dea.chunk.js.LICENSE.txt",
     "static/media/lauripelincv_profiilikuvavasenylä.png": "/portfolio/static/media/lauripelincv_profiilikuvavasenylä.d095d5c6.png",
     "static/media/svg-2.svg": "/portfolio/static/media/svg-2.b9f79051.svg",
-    "static/media/video2.374798e8.mp4": "/portfolio/static/media/video2.374798e8.mp4"
+    "static/media/video2.18b3dc9b.mp4": "/portfolio/static/media/video2.18b3dc9b.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.5198a724.js",
     "static/js/2.91bb7dea.chunk.js",
     "static/css/main.8cee5198.chunk.css",
-    "static/js/main.77d83153.chunk.js"
+    "static/js/main.b97b8d61.chunk.js"
   ]
 }
